@@ -2,4 +2,4 @@
 
 
 port 8000
-endpoints / and /about
+endpoints "/" and "/about"
